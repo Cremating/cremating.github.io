@@ -11,6 +11,11 @@ body {
     font-weight: 600;
 }
 
+#img1 {
+    width: auto;
+    height: auto;
+}
+
 #userPhoto {
     width: 100px;
     height: 100px;
